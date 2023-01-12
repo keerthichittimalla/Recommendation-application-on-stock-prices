@@ -1,1 +1,1 @@
-# Recommendation application on Stock Prices
+# Recommendation Application on Stock Prices
