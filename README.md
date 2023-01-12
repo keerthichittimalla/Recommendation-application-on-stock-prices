@@ -1,1 +1,1 @@
-# Stock-Price-Analysis
+# Recommendation application on Stock Prices
